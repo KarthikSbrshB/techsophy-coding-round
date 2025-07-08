@@ -1,0 +1,11 @@
+id,name,age,gender,smoking,family_history,last_breast_screen,last_cervical_screen,last_colorectal_screen
+1,Jane,55,F,True,True,2023-01-01,2022-06-01,2020-01-01
+2,John,60,M,False,False,,,2021-01-01
+3,Alice,45,F,False,True,2022-06-01,2021-01-01,
+4,Bob,50,M,True,False,,,2019-01-01
+5,Emily,35,F,True,False,2020-01-01,2021-06-01,2020-06-01
+6,Steve,40,M,False,True,,,2018-05-01
+7,Linda,65,F,True,True,2021-01-01,2020-01-01,2019-01-01
+8,Grace,70,F,False,True,2022-01-01,2019-12-01,2020-12-01
+9,Tom,58,M,True,True,,,2021-07-01
+10,Rachel,42,F,False,False,2021-09-01,2021-08-01,
